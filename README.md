@@ -13,7 +13,7 @@ How-to (as tested on MacOS)
 2. Install PyGame 1.9.x from [here](http://www.pygame.org/download.shtml)
 
 3. Clone the repository:
-
+I am working on opensource.Please help me out
 ```bash
 $ git clone https://github.com/sourabhv/FlapPyBird
 ```
